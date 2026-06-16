@@ -1,0 +1,7 @@
+polars>=0.20
+numpy
+pandas
+scikit-learn
+torch>=2.0
+catboost
+pyarrow
